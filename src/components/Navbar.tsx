@@ -28,7 +28,7 @@ const Navbar = ({ navItems,
 
 ) => {
     return (
-        <nav className="sticky top-0 flex items-center justify-between w-full px-8 py-8 bg-white ">
+        <nav className="sticky top-0 flex items-center justify-between w-full p-8 bg-white ">
             <img
                 src={logo}
                 alt="logo"

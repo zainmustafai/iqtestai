@@ -9,7 +9,7 @@ const List3 = ["Legal", "Privacy Policy", "Terms of Service", "Cookies Policy"];
 const NewsLetterSection = () => {
     return (
         <div className="px-4 pt-8 mb-8 lg:px-16">
-            <div className="bg-[#090808] text-white min-h-[700px] rounded-3xl p-3 md:p-10 lg:p-20 container m-auto flex flex-col ">
+            <div className="bg-[#090808] text-white min-h-[700px] rounded-3xl p-4 md:p-10 lg:p-20 container m-auto flex flex-col ">
                 
                 {/* UPPER SECTION */}
                 <section className="flex flex-col items-center justify-between w-full lg:flex-row gap-y-10">
